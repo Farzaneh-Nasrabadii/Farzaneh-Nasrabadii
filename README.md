@@ -1,7 +1,7 @@
 # Hi there, I'm Farzaneh Nasrabadi 👋
 
 <p align="left">
-  <a href="https://github.com/Farzaneh_Nasrabadii">
+  <a href="https://github.com/Farzaneh-Nasrabadii">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=2ecc71&vCenter=true&width=500&lines=Aspiring+Software+Developer;Java+%26+Python+Enthusiast;Ex-Informatics+Expert" alt="Typing SVG" />
   </a>
 </p>
@@ -12,10 +12,9 @@
 
 I am a detail-oriented Informatics & IT Specialist transitioning into professional Software Development. With nearly 8 years of part-time hands-on experience managing IT infrastructure, system administration, and databases, I am now focusing on building robust, scalable software solutions. 
 
-- 🚀 Current Focus: Deepening my expertise in Java object-oriented programming and architectural patterns.
-- 🇩🇪 Goal: Pursuing an Ausbildung in Fachinformatiker für Anwendungsentwicklung in Germany.
+- 🚀 Current Focus: Deepening my expertise in Java object-oriented programming, data structures, and architectural patterns.
 - 🛠️ System Background: Proficient in Linux (Ubuntu) environments, shell terminal commands, and database management.
-- 📚 Learning Journey: Currently building real-world projects, maintaining clean code standards, and optimizing GitHub workflows.
+- 📚 Learning Journey: Actively building real-world projects, maintaining clean code standards, and optimizing software workflows.
 
 ---
 
@@ -27,42 +26,20 @@ I am a detail-oriented Informatics & IT Specialist transitioning into profession
 
 ### 🧰 Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      <br />Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      <br />PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br />Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      <br />GitHub
-    </td>
-  </tr>
-</table>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 📈 GitHub Activities & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farzaneh_Nasrabadii&show_icons=true&theme=tokyonight&count_private=true" alt="Farzaneh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farzaneh_Nasrabadii&theme=tokyonight" alt="Farzaneh's Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Farzaneh-Nasrabadii&show_icons=true&theme=tokyonight&count_private=true" alt="Farzaneh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farzaneh-Nasrabadii&theme=tokyonight" alt="Farzaneh's Streak Stats" width="48%" />
 </p>
 
 ---
