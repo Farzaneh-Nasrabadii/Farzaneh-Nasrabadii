@@ -26,12 +26,12 @@ I am a detail-oriented Informatics & IT Specialist transitioning into profession
 
 ### 🧰 Tech Stack & Tools
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+!Java
+!Python
+!PostgreSQL
+!Linux
+!Git
+!GitHub
 
 ---
 
@@ -46,8 +46,8 @@ I am a detail-oriented Informatics & IT Specialist transitioning into profession
 
 ### 📬 Connect with Me
 
-- 📧 Email: [farzanehnasrabadii@gmail.com](mailto:farzanehnasrabadii@gmail.com)
-- 💼 LinkedIn: [Farzaneh Nasrabadi](https://www.linkedin.com/in/farzaneh-nasrabadii)
+- 📧 Email: farzanehnasrabadii@gmail.com
+- 💼 LinkedIn: Farzaneh Nasrabadi
 
 <p align="center">
   <i>"Clean code always looks like it was written by someone who cares." — Michael Feathers</i>
