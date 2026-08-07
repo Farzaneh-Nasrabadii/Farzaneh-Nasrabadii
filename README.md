@@ -1,56 +1,55 @@
-# Hi there, I'm Farzaneh Nasrabadi 👋
+# Hi, I'm Farzaneh Nasrabadi 👋
 
-<p align="left">
-  <a href="https://github.com/Farzaneh-Nasrabadii">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=2ecc71&vCenter=true&width=500&lines=Aspiring+Software+Developer" alt="Typing SVG" />
-  </a>
-</p>
+### Junior Backend Developer | Java & Python
 
----
+I'm an aspiring Backend Developer with an IT background and a strong interest in building reliable, maintainable, and scalable software.
 
-### 💫 About Me
-
-I am a detail-oriented Informatics & IT Specialist transitioning into professional Software Development. With nearly 8 years of part-time hands-on experience managing IT infrastructure, system administration, and databases, I am now focusing on building robust, scalable software solutions. 
-
-- 🚀 Current Focus: Deepening my expertise in Java object-oriented programming, data structures, and architectural patterns.
-- 🛠️ System Background: Proficient in Linux (Ubuntu) environments, shell terminal commands, and database management.
-- 📚 Learning Journey: Actively building real-world projects, maintaining clean code standards, and optimizing software workflows.
+I enjoy working with Java, Python, databases, Linux, and backend technologies, with a particular focus on clean code, object-oriented programming, testing, and software architecture.
 
 ---
 
-### 🌐 Languages
-- 🇬🇧 English: C2 Proficiency (Fluent / Bilingual)
-- 🇩🇪 German: B1 (Currently accelerating toward B2/ÖSD Certification)
+## 🚀 What I'm Working On
+
+- ☕ Deepening my Java and Object-Oriented Programming skills
+- 🌱 Learning Spring Boot and backend development
+- 🗄️ Working with PostgreSQL and database design
+- 🧪 Writing clean and testable code with JUnit 5
+- 🐳 Using Docker for development environments
+- 🐧 Working with Linux and system tools
 
 ---
 
-### 🧰 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+### Languages
+Java • Python • SQL
 
----
+### Backend & Database
+PostgreSQL
 
-### 📈 GitHub Activities & Statistics
+### Tools & Technologies
+Git • GitHub • Maven • Docker • Linux • JUnit 5
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Farzaneh-Nasrabadii&show_icons=true&theme=tokyonight&count_private=true" alt="Farzaneh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farzaneh-Nasrabadii&theme=tokyonight" alt="Farzaneh's Streak Stats" width="48%" />
-</p>
+### Concepts
+Object-Oriented Programming • Clean Code • Unit Testing • Database Design
 
 ---
 
-### 📬 Connect with Me
 
-- 📧 Email: [farzanehnasrabadii@gmail.com](mailto:farzanehnasrabadii@gmail.com)
-- 💼 LinkedIn: [Farzaneh Nasrabadi](https://www.linkedin.com/in/farzaneh-nasrabadii)
+## 🌍 Languages
 
-<p align="center">
-  <i>"Clean code always looks like it was written by someone who cares." — Michael Feathers</i>
-</p>
+- 🇮🇷 Persian — Native
+- 🇬🇧 English — C1
+- 🇩🇪 German — B1, currently preparing for B2
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Farzaneh Nasrabadi](https://www.linkedin.com/in/farzanehnasrabadii)
+- 📧 Email: farznehnasrabadii@gmail.com
+
+---
+
+> "Clean code always looks like it was written by someone who cares."
+> — Michael Feathers
