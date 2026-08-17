@@ -1,40 +1,49 @@
 # Hi, I'm Farzaneh Nasrabadi 👋
 
-### Junior Backend Developer | Java & Python
+### Aspiring Backend Developer | Java & Python | Seeking IT Ausbildung in Germany 🇩🇪
 
-I'm an aspiring Backend Developer with an IT background and a strong interest in building reliable, maintainable, and scalable software.
+I have a background in IT and am now building a solid, hands-on foundation in backend development. I'm currently transitioning into software engineering and actively looking for an IT Ausbildung in Germany, where I can grow as a backend developer while contributing real value from day one.
 
-I enjoy working with Java, Python, databases, Linux, and backend technologies, with a particular focus on clean code, object-oriented programming, testing, and software architecture.
+I care about writing clean, maintainable, and well-tested code, and I enjoy understanding *why* software is built the way it is — not just how.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Currently Learning
 
-- ☕ Deepening my Java and Object-Oriented Programming skills
-- 🌱 Learning Spring Boot and backend development
-- 🗄️ Working with PostgreSQL and database design
-- 🧪 Writing clean and testable code with JUnit 5
-- 🐳 Using Docker for development environments
-- 🐧 Working with Linux and system tools
+- ☕ Deepening Java 21 and Object-Oriented Programming
+- 🌱 Building REST APIs with Spring Boot
+- 🗄️ Database design and queries with PostgreSQL
+- 🧪 Writing clean, testable code with JUnit 5
+- 🐳 Containerizing applications with Docker (KodeKloud certified ✅)
+- 🐧 Linux system administration and shell tools
+- 🇩🇪 German — working toward B2
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-Java • Python • SQL
+Languages: Java 21 • Python • SQL
 
-### Backend & Database
-PostgreSQL
+Backend: Spring Boot • REST APIs
 
-### Tools & Technologies
-Git • GitHub • Maven • Docker • Linux • JUnit 5
+Database: PostgreSQL
 
-### Concepts
-Object-Oriented Programming • Clean Code • Unit Testing • Database Design
+Tools & DevOps: Git • GitHub • Maven • Docker • Linux
+
+Testing: JUnit 5
+
+Concepts: Object-Oriented Programming • Clean Code • Unit Testing • Database Design • Software Architecture
 
 ---
 
+## 📜 Certifications
+
+- ☕ Java 
+- 🐍 Python 
+- 🔧 Git 
+- 🐳 Docker 
+
+---
 
 ## 🌍 Languages
 
@@ -46,7 +55,7 @@ Object-Oriented Programming • Clean Code • Unit Testing • Database Design
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Farzaneh Nasrabadi](https://www.linkedin.com/in/farzanehnasrabadii)
+- 💼 LinkedIn: [Farzaneh Nasrabadi](https://www.linkedin.com/in/farzaneh-nasrabadii)
 - 📧 Email: farznehnasrabadii@gmail.com
 
 ---
